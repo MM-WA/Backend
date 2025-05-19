@@ -2,7 +2,7 @@
 
 This is a backend for a video-sharing platform, built to handle everything from uploading videos to social features like likes, comments, and subscriptions (controllers can be tweaked).  
 
-### Following are the features it provides:  
+### Features  
 **1.** Handles user signup, login, and profiles.  
 **2.** Lets users upload and manage their videos.  
 **3.** Users can like, comment, and post tweets related to videos.  
@@ -11,7 +11,7 @@ This is a backend for a video-sharing platform, built to handle everything from 
 
 It's built with scalability in mind and can be a solid starting point for any video-based platform.
 
-### To Setup Locally
+### Setup Locally
 **1.** Clone the project
 ```bash
 git clone https://github.com/MM-WA/videoManagement-server.git
@@ -40,7 +40,7 @@ CLOUDINARY_API_KEY =
 CLOUDINARY_SECRET = 
 ```
 
-### To Run the Server
+### Run the Server
 ```bash
 npm run dev
 ```
