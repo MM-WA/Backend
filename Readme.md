@@ -11,8 +11,18 @@ This is a backend for a video-sharing platform, built to handle everything from 
 
 It's built with scalability in mind and can be a solid starting point for any video-based platform.
 
+### To Setup Locally
 ```bash
-git clone https://github.com/your-username/project-name.git
-cd project-name
+git clone https://github.com/MM-WA/videoManagement-server.git
+```
+```bash
+cd videoManagement-server
+```
+```bash
 npm install
+```
+
+### To Run the Server
+```bash
+npm run dev
 ```
