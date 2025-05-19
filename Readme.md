@@ -44,3 +44,6 @@ CLOUDINARY_SECRET =
 ```bash
 npm run dev
 ```
+
+### Author
+Mian Muhammad Waleed Asif
