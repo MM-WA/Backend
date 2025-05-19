@@ -11,7 +11,8 @@ This is a backend for a video-sharing platform, built to handle everything from 
 
 It's built with scalability in mind and can be a solid starting point for any video-based platform.
 
-```
+```bash
 git clone https://github.com/your-username/project-name.git
 cd project-name
 npm install
+```
