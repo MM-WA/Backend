@@ -1,4 +1,4 @@
-## 🎥 Video Server - A backend service to manage videos
+## Video Server - A backend service to manage videos
 
 This is a backend for a video-sharing platform, built to handle everything from uploading videos to social features like likes, comments, and subscriptions (controllers can be tweaked).  
 
