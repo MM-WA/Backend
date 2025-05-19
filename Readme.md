@@ -22,6 +22,8 @@ cd videoManagement-server
 npm install
 ```
 
+Now before running the server provide your secrets (DB, Cloudinary, JWT etc) in .env
+
 ### To Run the Server
 ```bash
 npm run dev
